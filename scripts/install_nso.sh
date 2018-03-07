@@ -1,5 +1,5 @@
 # #!/bin/bash
-NSO_BIN=nso-4.4.3.linux.x86_64.installer.bin
+NSO_BIN=nso-4.3.2.linux.x86_64.installer.bin
 NSO_BIN_URL=http://engci-maven-master.cisco.com/artifactory/nso-release/tailf-releases/ncs/${NSO_BIN}
 
 echo Download NSO...
